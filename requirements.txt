@@ -1,0 +1,2 @@
+# Requires: deprecated-gap
+# (Not available on PyPI)
